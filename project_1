@@ -1,0 +1,14 @@
+select 'Dallas' as City, avg(listings.price) as Average
+from    airbnb_dallas.listings
+where   "listings"."room_type" = 'Private room'
+        and "minimum_nights" = '30'
+union
+select 'Oakland' as City, avg(listings.price)
+from    airbnb_oakland.listings
+where   "listings"."room_type" = 'Private room'
+        and "minimum_nights" = '30'
+union
+select 'New York' as City, avg(listings.price)
+from    airbnb_new_york.listings
+where   "listings"."room_type" = 'Private room'
+        and "minimum_nights" = '30'
