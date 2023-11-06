@@ -22,13 +22,13 @@
 
 https://github.com/StalinchukIon/cv_da/blob/main/project_1
 
-https:/github.com/StalinchukIon/cv_da/blob/main/project_1_result.png
+https://github.com/StalinchukIon/cv_da/blob/main/project_1_result.png
 
 Проект 2: Составление витрины для модели машинного обучения.
 
-https:/github.com/StalinchukIon/cv_da/blob/main/project_2
+https://github.com/StalinchukIon/cv_da/blob/main/project_2
 
-https:/github.com/StalinchukIon/cv_da/blob/main/project_2_result.png
+https://github.com/StalinchukIon/cv_da/blob/main/project_2_result.png
 
 Проект 3: Анализ АБ теста при помощи Python.
 
