@@ -39,3 +39,7 @@ https://github.com/StalinchukIon/cv_da/blob/main/project_4_2.xlsx
 Проект 5:  Калькурятор юнит экономики онлайн школы.
 
 https://github.com/StalinchukIon/cv_da/blob/main/project_5.xlsx
+
+# Контакты
+
+Email: stalinchukion@gmail.com
