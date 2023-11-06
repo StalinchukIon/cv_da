@@ -24,14 +24,18 @@ https://github.com/StalinchukIon/cv_da/blob/main/project_1
 
 Проект 2: Составление витрины для модели машинного обучения.
 
-
+https://github.com/StalinchukIon/cv_da/blob/main/project_2
 
 Проект 3: Анализ АБ теста при помощи Python.
 
-
+https://github.com/StalinchukIon/cv_da/blob/main/project_3.ipynb
 
 Проект 4: Анализ АБ теста для ритейла в разных городах.
 
+https://github.com/StalinchukIon/cv_da/blob/main/project_4_1.ipynb
 
+https://github.com/StalinchukIon/cv_da/blob/main/project_4_2.xlsx
 
 Проект 5:  Калькурятор юнит экономики онлайн школы.
+
+https://github.com/StalinchukIon/cv_da/blob/main/project_5.xlsx
